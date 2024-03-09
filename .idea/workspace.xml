@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff2eb87e-5973-4c1f-9517-2714800877e6" name="Changes" comment="" />
+    <list default="true" id="ff2eb87e-5973-4c1f-9517-2714800877e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/like_button.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/application.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "git-widget-placeholder": "start-react",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/react/react-fundamentals",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
